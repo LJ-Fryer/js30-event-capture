@@ -14,13 +14,13 @@ div {
 }
 
 .one {
-  background: thistle;
+  background: rgba(1, 112, 247, 0.8);
 }
 
 .two {
-  background: mistyrose;
+  background: rgba(30, 249, 176, 0.8);
 }
 
 .three {
-  background: coral;
+  background: rgba(252, 1, 47, 0.8);
 }
